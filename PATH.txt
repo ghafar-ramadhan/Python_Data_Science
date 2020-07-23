@@ -1,0 +1,55 @@
+Don't know how to code, here's your learning path to data analysis
+
+? Step 1
+Know Data Science
+https://pos.li/2g0izx
+
+? Step 2
+Discovery analytics
+https://pos.li/2g0izy
+
+? Step 3
+Machine Learning Terms
+https://pos.li/2g0j02
+
+? Step 4
+Basics of data structures and algorithms
+https://pos.li/2g0j00
+
+? Step 5
+Learning data science with zero-programming experience https://pos.li/2g0izz
+
+? Step 6
+Selecting course on data science https://pos.li/2g0j01
+
+? Step 7
+Excel to Pandas https://pos.li/2g0izw
+
+? Step 8
+Communication & Data Storytelling https://pos.li/2g0j03
+
+? Step 9
+Data Manipulation with Python https://pos.li/2g0izv
+
+? Step 10
+Data Visualization with Python (Matplotlib/Seaborn): https://pos.li/2g0j0b
+
+? Step 11
+Advanced Pandas https://pos.li/2g0j04
+
+? Step 12
+Tricks on Pandas by Real Python https://pos.li/2g0j05
+
+? Step 13
+Becoming Efficient with Pandas https://pos.li/2g0j06
+
+? Step 14
+Pandas Advances Tips https://pos.li/2g0j08
+
+? Step 15
+Jupyter Notebook (Beginner) https://pos.li/2g0j09
+
+? Step 16
+Jupyter Notebook (Advanced) https://pos.li/2g0j07
+
+Youtube : https://pos.li/2g0j0a
